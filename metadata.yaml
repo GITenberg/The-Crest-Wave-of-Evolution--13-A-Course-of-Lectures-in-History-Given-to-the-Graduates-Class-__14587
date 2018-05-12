@@ -1,0 +1,31 @@
+_repo: The-Crest-Wave-of-Evolution--13-A-Course-of-Lectures-in-History-Given-to-the-Graduates-Class-__14587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Kenneth
+    aliases:
+    - Morus, Cenydd
+    - Morris, Kenneth Vennor
+    birthdate: 1879
+    deathdate: 1937
+    gutenberg_agent_id: '5891'
+    url: http://www.gutenberg.org/2009/agents/5891
+    wikipedia: http://en.wikipedia.org/wiki/Kenneth_Morris
+description: ''
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcc 'BP'
+title: "The Crest-Wave of Evolution\r\nA Course of Lectures in History, Given to the\
+  \ Graduates' Class in the Raja-Yoga College, Point Loma, in the College-Year 1918-19"
+url: http://www.gutenberg.org/ebooks/14587
